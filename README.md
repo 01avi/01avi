@@ -1,4 +1,4 @@
-![MasterHead](https://giffiles.alphacoders.com/209/209037.gif)
+![MasterHead](  https://dri.es/files/images/blog/javascript-powered-multichannel.gif)
 <h1 align="center">Hi 👋, I'm Aviral</h1>
 <h3 align="center">Student of KIET collage..</h3>
 <img align="right" alt="Coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
