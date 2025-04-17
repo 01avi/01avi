@@ -1,6 +1,6 @@
 ![MasterHead](  https://dri.es/files/images/blog/javascript-powered-multichannel.gif)
 <h1 align="center">Hi 👋, I'm Aviral</h1>
-<h3 align="center">Student of KIET collage..</h3>
+<h3 align="center"> Software Engineer / Frontend Developer </h3>
 <img align="right" alt="Coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01avi&label=Profile%20views&color=0e75b6&style=flat" alt="01avi" /> </p>
@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **Honest fellow**
 
-- 💬 Ask me about **HTML,CSS,C,JAVA**
+- 💬 Ask me about **HTML,CSS,C,JAVA,React JS, NodeJS, TailWind CSS, MySql,**
 
-- 📫 How to reach me **Aviralupadhyay98@gmail.com**
+- 📫 How to reach me **aviralupadhyay98@gmail.com**
 
 - ⚡ Fun fact **I convert caffeine into code..**
 
